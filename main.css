@@ -1,0 +1,58 @@
+.resize{
+    max-width: 150px;
+    margin-left: 5vw;
+}
+
+.border{
+    border: 1px solid #eee;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.row{
+    justify-content: center;
+    top: 15vh;
+    position: relative;
+}
+
+
+.block{
+    display: block;
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #ffc14d;
+    text-align: center;
+}
+
+.account_button{
+    display: block;
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #eee;
+    text-align: center;
+}
+
+.new{
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid grey; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+    font-size:small;
+    color: grey
+}
+
+.new span{
+    background:#fff; 
+    padding:0 10px;
+}
+
+.remove{
+   text-decoration: none;
+}
+
+.move_right{
+    margin-left: 2vw;
+}
